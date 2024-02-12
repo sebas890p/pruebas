@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Que me vas a regalar?')
+    alert('Yo sabia que me perdonabas?')
 });
 
 const noBtn = document.querySelector('#noBtn');
